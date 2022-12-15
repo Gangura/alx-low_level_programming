@@ -7,7 +7,7 @@
  **/
 
 int main(void)
-
+{
 	int a, b, c;
 	int largest;
 

@@ -7,10 +7,10 @@
  * Return: pointer to new space in memory or null
  **/
 char *str_concat(char *s1, char *s2)
-
 {
 	char *strDup;
 	int i, j;
+	
 	if (s1 == NULL)
 		s1 = "";
 	if (s2 == NULL)

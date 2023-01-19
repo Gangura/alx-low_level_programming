@@ -1,1 +1,1 @@
-This repository contains basics of c programming language, it is an introduction to the language with some basic concepts and how the syntax and various commands are used. It is an elementary and beginner friendly basic foundations of c.
+C - Variadic functionsC - Variadic functions
